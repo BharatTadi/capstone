@@ -1,0 +1,15 @@
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 100px;
+    background-color: antiquewhite;
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    display: inline;
+}
